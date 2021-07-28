@@ -1,6 +1,6 @@
 # About iceBear
 Student & Amateur Developer  
-Learning anything
+Learning anything <3
 
 ## Contact Me
 reach out via [Issue](https://github.com/iceBear67/iceBear67/issues/new)  
@@ -11,5 +11,8 @@ Blog: https://nstd.sfclub.cc
 ![github stats](https://github-readme-stats.vercel.app/api?username=iceBear67&show_icons=true)  
 <!--
 Furry Shit & Student and Psychiatric patient.    
-Could you be my redemption?
+Could you be my redemption?  
+
+redemption...  
+Seems like far away from a kid.  
 -->
