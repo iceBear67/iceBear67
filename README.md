@@ -9,3 +9,7 @@ Blog: https://nstd.sfclub.cc
   
   
 ![github stats](https://github-readme-stats.vercel.app/api?username=iceBear67&show_icons=true)  
+<!--
+Furry Shit & Student and Psychiatric patient.    
+Could you be my redemption?
+-->
