@@ -2,6 +2,12 @@
 Student & Amateur Developer  
 Learning anything <3
 
+# Active Projects
+ - [ExtMe -- Extremely simple & easy plugin framework](https://github.com/iceBear67/ExtMe)
+ - [Youdao4J -- Dispatching Youdao Translator API without permium tokens](https://github.com/iceBear67/Youdao4J)
+ - [(WIP) PolarCore -- Universal chatbot framework](https://github.com/saltedfishclub/PolarCore)
+ - [(WIP) Packy -- Universal Package Manager on JVM](https://github.com/saltedfishclub/Packy)
+ - [(WIP) Oyster -- Easy framework for developing minigames in Minecraft](https://github.com/saltedfishclub/Oyster)
 ## Contact Me
 Reach out via [Issue](https://github.com/iceBear67/iceBear67/issues/new) or [EMail Me](mailto://48877375+iceBear67@users.noreply.github.com)  
 
