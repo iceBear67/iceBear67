@@ -1,5 +1,5 @@
 # About [iceBear](https://nstd.sfclub.cc)
-Student & Amateur Developer  
+Junior Student & Amateur Developer  
 Learning anything <3
 
 ## Contact Me
