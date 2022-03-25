@@ -1,6 +1,8 @@
 # About [iceBear](https://nstd.sfclub.cc)
-Junior Student & Amateur Developer  
+Junior Student & Amateur Developer & Not a Bear  
 Learning anything <3
+
+**I HATE MOSQUITO**
 
 ## Contact Me
 Reach out via [Issue](https://github.com/iceBear67/iceBear67/issues/new) or [EMail Me](mailto://48877375+iceBear67@users.noreply.github.com)  
