@@ -1,6 +1,9 @@
 # About [iceBear](https://nstd.sfclub.cc)
-Junior Student & Amateur Developer & Not a Bear  
-Learning and being enthusiastic to anything <3
+
+A student who like codes.  
+I'm still learning and creating things that I'm falling in love with. 😘
+
+Using ArchLinux & KDE. Appearing everywhere, but you can find me from below.  
 
 ## Contact Me
 Reach out via [Issue](https://github.com/iceBear67/iceBear67/issues/new) or [EMail Me](mailto:48877375+iceBear67@users.noreply.github.com)  
