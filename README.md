@@ -1,6 +1,6 @@
 # About [iceBear](https://nstd.sfclub.cc)
 
-A student who like codes.  
+A student who like coding  
 I'm still learning and creating things that I'm falling in love with. 😘
 
 Using ArchLinux & KDE. Appearing everywhere, but you can find me from below.  
