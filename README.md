@@ -1,7 +1,7 @@
 # About [iceBear](https://nstd.sfclub.cc)
 
 An amateur developer who is learning, creating and loving things. 😘   
-He is also learning senior school cources, but sometimes seems like a junior student.
+He is also learning senior school cources, but seems like a junior student sometimes.
 
 Using ArchLinux & KDE. Appearing everywhere, and you can find him from below.  
 
