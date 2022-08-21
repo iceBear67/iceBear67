@@ -5,8 +5,6 @@ He is also learning senior school cources, but seems like a junior student somet
 
 Using ArchLinux & KDE. you can find him from below.  
 
-**Migrated to [CodeBerg](https://codeberg.org/iceBear67), less active on GitHub**
-
 ## Contact
 via [Issue](https://github.com/iceBear67/iceBear67/issues/new) or [EMail](mailto:48877375+iceBear67@users.noreply.github.com)    
 
