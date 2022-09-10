@@ -1,4 +1,4 @@
-# About [iceBear](https://nstd.sfclub.cc)
+# About [iceBear](https://ib67.io)
 
 An amateur developer who is learning, creating and loving things. 😘   
 He is also learning senior school cources, but seems like a junior student sometimes.
