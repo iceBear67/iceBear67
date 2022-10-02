@@ -1,9 +1,8 @@
-# About [iceBear](https://ib67.io)
+# About iceBear
 
-An amateur developer who is learning, creating and loving things. 😘   
-He is also learning senior school cources, but seems like a junior student sometimes.
+An amateur developer who loves Java, :coffee: and _the cat_.  
 
-Using ArchLinux & KDE. you can find him from below.  
+Uses ArchLinux & KDE which was turned into my shape.  
 
 ## Contact
 
@@ -13,8 +12,7 @@ GPG Fingerprint:
 
 
 via [Issue](https://github.com/iceBear67/iceBear67/issues/new) or [EMail](mailto:48877375+iceBear67@users.noreply.github.com)    
+
+Personal Blog: https://ib67.io
   
 ![github stats](./github-metrics.svg)  
-<!--
-Here're something only visible in the past :) 
--->
