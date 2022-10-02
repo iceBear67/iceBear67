@@ -2,7 +2,7 @@
 
 An amateur developer who loves Java, :coffee: and _the cat_.  
 
-Uses ArchLinux & KDE which was turned into my shape.  
+I uses ArchLinux & KDE which was snitched to my shape.
 
 ## Contact
 
