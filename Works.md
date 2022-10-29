@@ -1,4 +1,4 @@
-There are too many works. I have to create another page to introduce them.
+I have made too many projects (even before high school graduation). So I created another page to introduce them.
 
 1. [_AstralFlow_](https://github.com/InlinedLambdas/AstralFlow) -- A Framework for Custom Block/Machine/Item Mechanics.
 2. [Youdao4J](https://github.com/iceBear67/Youdao4J) -- A simple crawler supports fetching tokens automatically.
@@ -12,7 +12,8 @@ There are too many works. I have to create another page to introduce them.
 The following works are almost discontinued or I'm not willing to work with them at present, however, they worth being mentioned.
 
 1. [PolarCore](https://github.com/saltedfishclub/PolarCore) -- The earliest(Java at least) universal IM platform. My first Java project.  
-  It is under full rewrite and will be another project soon.
+  It is under full rewrite and will be another project soon.  
+  Also, there are some projects are developed around it: https://github.com/project-polar
 2. [vapu](https://github.com/iceBear67/vapu) -- Utilizing mixin to crack Vape v4. Much harder than your thoughts.
 
 
