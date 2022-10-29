@@ -15,6 +15,7 @@ GPG Fingerprint:
 
 via [Issue](https://github.com/iceBear67/iceBear67/issues/new) or [EMail](mailto:48877375+iceBear67@users.noreply.github.com)    
 
-Personal Blog: https://ib67.io
+Personal Blog: https://ib67.io  
+My works: [Works](./Works.md)
   
 ![github stats](./github-metrics.svg)  
