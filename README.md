@@ -4,6 +4,8 @@ An amateur developer who loves Java, :coffee: and _the cat_.
 
 I use ArchLinux & KDE which is pinched to my shape.
 
+Senior high school student.
+
 ## Contact
 
 GPG Fingerprint: 
