@@ -1,8 +1,8 @@
 # About iceBear
 
-An amateur developer who loves Java, :coffee: and _the cat_.  
+An amateur developer who loves Java, :coffee: and _his cat_.  
 
-I use ArchLinux & KDE which is pinched to my shape.
+I use ArchLinux & KDE and I pinched them to my shape.
 
 Senior high school student.
 
