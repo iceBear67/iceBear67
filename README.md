@@ -17,6 +17,7 @@ via [Issue](https://github.com/iceBear67/iceBear67/issues/new) or [EMail](mailto
 [Telegram](https://t.me/ib67_pm_bot)
 
 Personal Blog: https://ib67.io  
-My works: [Works](./Works.md)
+My works: [Works](./Works.md)  
+Join us: `trial.sfclub.cc`
   
 ![github stats](./github-metrics.svg)  
