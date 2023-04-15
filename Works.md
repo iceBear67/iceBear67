@@ -8,6 +8,7 @@ I have made too many projects (even before high school graduation). So I created
 5. [_linguee_](https://github.com/iceBear67/linguee) -- Alternative `Text` solution for Spigot Servers.
 6. [Shito](https://github.com/iceBear67/Shito) -- Universal message broadcaster. Define your pattern and we'll give a callback URL for you.
 7. [Kiwi](https://github.com/Kalculos/kiwi) -- A robust and easy util for Java, including some compile-time magics.
+8. [dash](https://github.com/kalculos/dash) -- Universal IM Bot framework, the successor of `PolarCore`.
 
 The following works are almost discontinued or I'm not willing to work with them at present, however, they worth being mentioned.
 
