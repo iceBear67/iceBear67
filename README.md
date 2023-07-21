@@ -4,9 +4,7 @@ An amateur developer who loves Java, :coffee: and _his cat_.
 
 I use ArchLinux & KDE and I pinched them to my shape.
 
-Senior high school student.
-
-*接插件定制 / Available for Spigot plugin customization*
+Senior high school student. BUSY
 
 ## Contact
 
