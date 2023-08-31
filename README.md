@@ -2,7 +2,7 @@
 
 An amateur developer who loves Java, :coffee: and _his cat_.  
 
-I use ArchLinux & KDE and I pinched them to my shape.
+I use ArchLinux & KDE.
 
 Senior high school student. BUSY
 
