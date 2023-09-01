@@ -1,10 +1,10 @@
-# About iceBear
+# About Me
 
-An amateur developer who loves Java, :coffee: and _his cat_.  
+Arch & KDE User, sometimes Windows for games.
 
-I use ArchLinux & KDE.
+Prefer Java & Kotlin.
 
-Senior high school student. BUSY
+`包里有手套，置顶了某个公众号` 
 
 ## Contact
 
@@ -17,8 +17,7 @@ via [Issue](https://github.com/iceBear67/iceBear67/issues/new) or [EMail](mailto
 [Telegram](https://t.me/ib67_pm_bot)
 
 Personal Blog: https://ib67.io  
-My works: [Works](./Works.md)  
-Join us: `trial.sfclub.cc`
+My projects: [Projects](./Works.md)  
 
 ![counter](https://count.getloli.com/get/@iceBear67?theme=moebooru)  
 
