@@ -2,7 +2,7 @@
 
 Arch & KDE User, sometimes Windows for games.
 
-Prefer Java & Kotlin.
+I use languages for their suitable scenes, but I'd like to use Java & Kotlin in most cases.
 
 `包里有手套，置顶了某个公众号` 
 
@@ -17,8 +17,8 @@ GPG Fingerprint:
 via [Issue](https://github.com/iceBear67/iceBear67/issues/new) or [EMail](mailto:48877375+iceBear67@users.noreply.github.com)    
 I use [Telegram](https://t.me/ib67_pm_bot) more often  
 
-Personal Blog: https://ib67.io  
-My projects: [Projects](./Works.md)  
+Personal Blog: https://blog.0w0.io (used to be `ib67.io`)
+Some of my projects: [Projects](./Works.md)  
 
 ![counter](https://count.getloli.com/get/@iceBear67?theme=moebooru)  
 
