@@ -2,7 +2,7 @@
 
 Arch & KDE User, sometimes Windows for games.
 
-I use languages for their suitable scenes, but I'd like to use Java & Kotlin in most cases.
+I use languages in their suitable scenes, but I'd like to use Java & Kotlin in most cases.
 
 `包里有手套，置顶了某个公众号` 
 
