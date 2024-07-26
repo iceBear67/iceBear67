@@ -14,7 +14,7 @@ GPG Fingerprint:
 via [Issue](https://github.com/iceBear67/iceBear67/issues/new) or [EMail](mailto:48877375+iceBear67@users.noreply.github.com)    
 I use [Telegram](https://t.me/ib67_pm_bot) more often  
 
-Personal Blog: https://blog.0w0.io  
+Personal Blog: https://blog.0w0.ing  
 Some of my projects: [Projects](./Works.md)  
 
 ![counter](https://count.getloli.com/get/@iceBear67?theme=moebooru)  
