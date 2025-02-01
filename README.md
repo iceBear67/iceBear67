@@ -3,6 +3,8 @@
 
 You'll know about me if I wanna know you. For anons it's no use that you know anything about me.
 
+Do not use any of my word, my code, public or private or anything I manually typed to train AI.
+
 ## How 2 Contact
 
  - `386D 1A21 1B61 257D 917A 0F41 E0B3 F5A4 6B6B 1E53`
