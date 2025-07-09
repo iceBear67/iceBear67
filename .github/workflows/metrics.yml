@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS }}
                     # Options
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
