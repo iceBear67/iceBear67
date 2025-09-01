@@ -3,12 +3,11 @@
 GPG PubKey Fingerprint:
  - `386D 1A21 1B61 257D 917A 0F41 E0B3 F5A4 6B6B 1E53`
 
-[Telegram](https://t.me/ib67_pm_bot).   
-Before messaging me, make sure you will not:
- - _Leave a hello? and go._ Don't you know [_why?_](https://nohello.net/en/)
-   - Tell me who you are and why do you contact me is a good beginning.
+[Telegram](https://t.me/ib67_pm_bot). ([btw, _nohello._](https://nohello.net/en/))   
+ - Tell me who you are and why do you contact me is OK.
    
-You can E-Mail my git email as well, if you know where to find. Or, submit an issue in [this repo](https://github.com/iceBear67/iceBear67) and I'll respond later.
+You can email me as well, or submit an issue in [this repo](https://github.com/iceBear67/iceBear67) and I'll respond later.
+My Email: (my github id) \at sfclub \dot cc
 
 ![counter](https://count.getloli.com/get/@iceBear67?theme=moebooru)  
 
