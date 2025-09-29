@@ -9,6 +9,8 @@ GPG PubKey Fingerprint:
 You can email me as well, or submit an issue in [this repo](https://github.com/iceBear67/iceBear67) and I'll respond later.
 My Email: (my github id) \at sfclub \dot cc
 
+**If you're asking for my review, please @ me so I can receive notifcations in time!**
+
 ![counter](https://count.getloli.com/get/@iceBear67?theme=moebooru)  
 
 ![github stats](./github-metrics.svg)  
