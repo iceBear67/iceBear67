@@ -7,8 +7,9 @@ I prefer JVM Stack, then TypeScript/Go, then Python. Sometimes I use agent and I
 ### contact
 
 Please send your intention directly for fast reply.  
+Chinese & English OK.  
 
-Telegram: [@ib67_pm_bot](https://t.me/ib67_pm_bot) (Chat via Channel Direct Message)
+Telegram: [@ib67_pm_bot](https://t.me/ib67_pm_bot) (Chat via Channel Direct Message)  
 EMail: `icebear67 \at sfclub \dot cc` (which I check infrequently)
 
 ### stats
